@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest bubble.test.js"
+    "test": "jest merge.test.js"
   },
   "author": "",
   "license": "ISC",
